@@ -1,6 +1,5 @@
 #### to copy the files from source to target
 
-
 ---
 
 - hosts: dev
